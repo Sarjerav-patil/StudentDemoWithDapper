@@ -1,0 +1,14 @@
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\bin\Debug\netcoreapp2.1\StudentDapperDemoAPI.deps.json
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\bin\Debug\netcoreapp2.1\StudentDapperDemoAPI.runtimeconfig.json
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\bin\Debug\netcoreapp2.1\StudentDapperDemoAPI.runtimeconfig.dev.json
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\bin\Debug\netcoreapp2.1\StudentDapperDemoAPI.dll
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\bin\Debug\netcoreapp2.1\StudentDapperDemoAPI.pdb
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.csprojAssemblyReference.cache
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.RazorAssemblyInfo.cache
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.RazorAssemblyInfo.cs
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.AssemblyInfoInputs.cache
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.AssemblyInfo.cs
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.dll
+C:\Users\Nitin\source\repos\tudentDapperDemoAPI\tudentDapperDemoAPI\obj\Debug\netcoreapp2.1\StudentDapperDemoAPI.pdb
